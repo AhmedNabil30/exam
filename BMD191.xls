@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html class='pc chrome win psc_dir-ltr psc_form-xlarge' dir='ltr' lang='en'>
+<!-- Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved. -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><body><table border='1' cellpadding='3' cellspacing='0'>
+<tr>
+<th>Select</th><th>ID</th><th>Name</th><th>Grade Basis</th><th>Units</th><th>Program and Plan</th><th>Level</th></tr>
+<tr>
+<td  ></td>
+<td  >223107032</td>
+<td  >ABDELHAMED,NORA SALAH</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Biomedical Informatics - Biomedical Informatics</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223101331</td>
+<td  >ELEWA,JANA YASSER ABDELKADER SAYED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Biomedical Informatics - Biomedical Informatics</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223105438</td>
+<td  >ISMAIL,MOHAMMED TAREQ MOHAMED MOHAMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Biomedical Informatics - Biomedical Informatics</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223105447</td>
+<td  >MATHANA,ESRAA GAMAL SADAWY</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Biomedical Informatics - Biomedical Informatics</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223105565</td>
+<td  >RIHAN,MARIAM AHMED MOHAMED ABDELAZIZ</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Biomedical Informatics - Biomedical Informatics</td>
+<td  >Sophomore</td>
+</table></body></html>

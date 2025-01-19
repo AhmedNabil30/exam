@@ -1,0 +1,124 @@
+[
+    {
+      "id": 1,
+      "modelId": 1,
+      "text": "What are the advantages of cloud computing over computing on-premises?",
+      "options": [
+        "Avoid large capital purchases",
+        "Use on-demand capacity",
+        "Go global in minutes",
+        "Increase speed and agility",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "id": 2,
+      "modelId": 1,
+      "text": "Which of the following is a compute service?",
+      "options": [
+        "Amazon VPC",
+        "Amazon S3",
+        "Amazon EC2",
+        "Amazon CloudFront",
+        "Amazon Redshift"
+      ],
+      "correctAnswer": "Amazon EC2"
+    },
+    {
+      "id": 3,
+      "modelId": 1,
+      "text": "Which of these is NOT a cloud computing model?",
+      "options": [
+        "Platform as a service",
+        "Infrastructure as a service",
+        "System administration as a service",
+        "Software as a service"
+      ],
+      "correctAnswer": "System administration as a service"
+    },
+    {
+      "id": 4,
+      "modelId": 1,
+      "text": "Which of the following is NOT a benefit of AWS Cloud computing?",
+      "options": [
+        "Multiple procurement cycles",
+        "High availability",
+        "High latency",
+        "Temporary and disposable resources",
+        "Fault-tolerant databases"
+      ],
+      "correctAnswer": "Multiple procurement cycles"
+    },
+    {
+      "id": 5,
+      "modelId": 1,
+      "text": "Which of these is a way to access AWS core services?",
+      "options": [
+        "Technical support calls",
+        "AWS Marketplace",
+        "AWS Management Console",
+        "AWS Command Line Interface (AWS CLI)",
+        "Software Development Kits (SDKs)"
+      ],
+      "correctAnswer": "AWS Management Console"
+    },
+    {
+      "id": 6,
+      "modelId": 2,
+      "text": "What is the pricing model that enables AWS customers to pay for resources on an as-needed basis?",
+      "options": [
+        "Pay as you decommission",
+        "Pay as you go",
+        "Pay as you buy",
+        "Pay as you reserve"
+      ],
+      "correctAnswer": "Pay as you go"
+    },
+    {
+      "id": 7,
+      "modelId": 2,
+      "text": "Which of these is NOT a benefit of cloud computing over on-premises computing?",
+      "options": [
+        "Increase speed and agility",
+        "Pay for racking, stacking, and powering servers",
+        "Eliminate guessing on your infrastructure capacity needs",
+        "Trade capital expense for variable expense",
+        "Benefit from massive economies of scale"
+      ],
+      "correctAnswer": "Pay for racking, stacking, and powering servers"
+    },
+    {
+      "id": 8,
+      "modelId": 2,
+      "text": "Economies of scale result from:",
+      "options": [
+        "Having many different cloud providers",
+        "Having hundreds of thousands of customers aggregated in the cloud",
+        "Having hundreds of cloud services available over the internet",
+        "Having to invest heavily in data centers and servers"
+      ],
+      "correctAnswer": "Having hundreds of thousands of customers aggregated in the cloud"
+    },
+    {
+      "id": 9,
+      "modelId": 2,
+      "text": "True or False? AWS owns and maintains the network-connected hardware required for application services, while you provision and use what you need.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 10,
+      "modelId": 2,
+      "text": "True or False? Cloud computing provides a simple way to access servers, storage, databases, and a broad set of application services over the internet. You own the network-connected hardware required for these services and Amazon Web Services provisions what you need.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False"
+    }
+  ]
+  

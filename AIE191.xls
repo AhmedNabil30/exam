@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html class='pc chrome win psc_dir-ltr psc_form-xlarge' dir='ltr' lang='en'>
+<!-- Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved. -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><body><table border='1' cellpadding='3' cellspacing='0'>
+<tr>
+<th>Select</th><th>ID</th><th>Name</th><th>Grade Basis</th><th>Units</th><th>Program and Plan</th><th>Level</th></tr>
+<tr>
+<td  ></td>
+<td  >223101187</td>
+<td  >ABDALALIM,HASSAN MOHAMED ABDALHAMEED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223103134</td>
+<td  >ABDALLAH,JANA MOHAMED BESHEER AHMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223102112</td>
+<td  >ABDALLAH,MAHMOUD MAHMOUD</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223102757</td>
+<td  >ABDALLAH,MARIAM AHMED MOHAMED MAHMOUD</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223103503</td>
+<td  >ABDELHADY,AHMED NABIL HASAN ABDELMOATY</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223103236</td>
+<td  >ABDELHAMID,HAZEM MOHAMED HASSAN</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223105399</td>
+<td  >ABDELLATIF,MOHAMED ASHRAF EL SAYED TOLBA</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223104648</td>
+<td  >ABDELMAGED,MAHMOUD EMAD MOHAMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223106175</td>
+<td  >ABDELMASIH,PETER NABIL HANA HABIB</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223102640</td>
+<td  >ABDELMOATY,JANNA ALLAH AHMED ASSEM</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223103111</td>
+<td  >ABDELRAHEM,YOUSSEF ALY FATHY</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223105573</td>
+<td  >ABOELROUS,HAZEM MOHAMED ABDEMONIEM MOSTAFA</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - </td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223108600</td>
+<td  >ADLI,MINA HESHMAT</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223105997</td>
+<td  >AHMED,ADHAM WAGDY</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223102981</td>
+<td  >AHMED,AHMED SAEED YOUSEF</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223106159</td>
+<td  >AHMED,FARAH MOHMED MOAHMOUD</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223104844</td>
+<td  >ALI,HABIBA ASHRAF AHMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223102168</td>
+<td  >ALLAM,AHMED ELSAYED AHMED MOSTAFA</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223103149</td>
+<td  >ALNOUR,FARAH DIAA MOHAMED ABO</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >222200065</td>
+<td  >AbdElrahman,Mazen Karim AlaaAdin</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >222200127</td>
+<td  >Abdalah,Abdalah Tarek Mohamed</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223102501</td>
+<td  >BADAWY,FARAH ABDELAZIZ ABDELNABY</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223101575</td>
+<td  >BELAIH,AHMED YASER LOTFY MOHAMED SAYED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223107604</td>
+<td  >DAIM,MOHAMED ISMAIL MOHAMED ISMAIL ABEL EL</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223105080</td>
+<td  >DESSOUKI,JANA WAEL EL SAYED MOHAMMED EL</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223105570</td>
+<td  >EID,MAHMOUD MOHAMED MAHMOUD MOHAMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223105424</td>
+<td  >EISA,SHAHD WALAA MOHAMED MAHER</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223104924</td>
+<td  >EISSA,AHMED YASSER ABDELRAHMAN MOHAMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223105550</td>
+<td  >ELBESHLAWY,ALI OSAMA ALI HASSAN</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223103537</td>
+<td  >ELDOUMIATY,NADINE ELSAYED GOMAA ELSAYED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223104917</td>
+<td  >ELFAUOMY,KARIM MOHAMED MOHAMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223106558</td>
+<td  >ELGALIL,ESRAA GABER ALI ABD</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223102754</td>
+<td  >ELMELIGY,YOUSSEF MOHAMED MAHMOUD MOHAMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223106065</td>
+<td  >ELTABLAWEY,RAMA KHALED MOHAMED HAMZA</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223106563</td>
+<td  >ESSA,AHMED MOHAMED FATHY</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >221101769</td>
+<td  >Elsaeidy,Samira Samir Mohamed</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Junior</td>
+<tr>
+<td  ></td>
+<td  >222100396</td>
+<td  >Elsawah,Bashar Hesham Abdelmaged</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >221100419</td>
+<td  >Elsayed Hassan Mohamed,Loay Gamal</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Junior</td>
+<tr>
+<td  ></td>
+<td  >222102242</td>
+<td  >Fayed,Zeyad Mohamed Mahmoud</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223105568</td>
+<td  >GAD,ESMAIL HAMED EBRAHEEM</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223106076</td>
+<td  >GAWAD,REEM HANY SALEH ABDEL</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223104702</td>
+<td  >GERGES,HEAVEN RIMONE REZK HAGB</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223104137</td>
+<td  >HASHEM,FARIDA ABD EL MOUIZE AHMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223104027</td>
+<td  >HASSONA,AHMED KHALED ABDULLAH ELSAYED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223103933</td>
+<td  >HUSSEIN,AHMED SAMY LABIB</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223105302</td>
+<td  >HUSSEIN,AZIZA MOSTAFA HASSAN</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223105892</td>
+<td  >HUSSIEN,ALI ABD ELHAMEED ABDO ABD ELHAMEED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223105564</td>
+<td  >IBRAHIM,IBRAHIM MOHAMED ATEF</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223106560</td>
+<td  >KHALAF,AHMED GOMAA</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223106085</td>
+<td  >KILANY,TOAA KHALED KHALIL</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >222101064</td>
+<td  >Kamel,Omar Saeed Mohamed</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >224105288</td>
+<td  >Khatab,Mohamed Elamir Elsadek Abdelhamed</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >222101273</td>
+<td  >Lotif,Mazen Sharif Attia</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223107071</td>
+<td  >MAGHRBY,ALAA MAHMOUD MOHAMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223103491</td>
+<td  >MAHDY,HUSSIEN NASER HASSAN</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223106291</td>
+<td  >MAHMOUD,AHMED HISHAM</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223104903</td>
+<td  >MAHMOUD,MARIAM MOSTAFA</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223106205</td>
+<td  >MOHAMED,ABDALLA HAMED MAHMOUD</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223102669</td>
+<td  >MOHAMED,ALI SAEED TAHA</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223104857</td>
+<td  >MOHAMED,AMIN AMIN</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223104705</td>
+<td  >MOHAMED,MIRNA WALID SHEHATA</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223104514</td>
+<td  >MOHAMED,MOHAMED AHMED ISMAIL</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223103505</td>
+<td  >MOHAMED,YOUSSEF AHMED ATIA</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223105421</td>
+<td  >MOHAMED,YOUSSEF MOHSEN BAHR</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223105471</td>
+<td  >MOHAMMED,MAHMOUD ADEL GAMAL</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - </td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223105470</td>
+<td  >MOHAMMED,MOHAMMED ADEL GAMAL</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - </td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223105581</td>
+<td  >MUHAMMAD,MUHAMMAD TAMER</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223103501</td>
+<td  >NASEF,SALMA MOHAMED GAMIL ALI</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223105556</td>
+<td  >OMRAN,OMAR AHMED ABDELAZIZ MOHAMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223105468</td>
+<td  >OSMAN,MARIAM MOHAMED AHMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223103516</td>
+<td  >RIAD,MINA OSAMA NASIM</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223102709</td>
+<td  >SAKR,YOUSSEF MOHAMED AHMED IBRAHIM</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223102707</td>
+<td  >SALEM,ALI EMAD SAID MOHAMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223102556</td>
+<td  >SHAARAWY,JUDY AMR MOHAMED HASSAN</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223107319</td>
+<td  >SHADEED,YOUSSEF MOHAMMED AL-NAHHAS HUSSIEN</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - </td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >222200040</td>
+<td  >Said,Hajar Mohammed Abd El Hakeem</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223103519</td>
+<td  >YOUSSEF,MOSTAFA HAMDY ABD EL HAKIM ALI</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - </td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223102176</td>
+<td  >ZAID,AMMAR RAMADAN ABDEL ALIM ABO</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >222102312</td>
+<td  >abdo,seif amr abdelhafez</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >AI  Science - AI  Science</td>
+<td  >Sophomore</td>
+</table></body></html>

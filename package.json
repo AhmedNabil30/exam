@@ -1,0 +1,47 @@
+{
+  "name": "exam-system-backend",
+  "version": "1.0.0",
+  "description": "Backend for Exam Management System",
+  "main": "dist/app.js",
+  "scripts": {
+    "build": "tsc",
+  "start": "node dist/app.js",
+  "dev": "ts-node-dev src/app.ts",
+    "lint": "eslint . --ext .ts",
+    "import:students": "ts-node scripts/bulkStudentImport.ts",
+    "lint:fix": "eslint . --ext .ts --fix"
+  },
+  "keywords": [
+    "exam",
+    "student",
+    "management",
+    "backend"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "helmet": "^7.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.8.4",
+    "rxjs": "^7.8.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/cors": "^2.8.14",
+    "@types/express": "^4.17.21",
+    "@types/jsonwebtoken": "^9.0.7",
+    "@types/mongoose": "^5.11.97",
+    "@types/node": "^20.6.3",
+    "@types/xlsx": "^0.0.36",
+    "@typescript-eslint/eslint-plugin": "^6.7.2",
+    "@typescript-eslint/parser": "^6.7.2",
+    "eslint": "^8.49.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.7.3"
+  }
+}

@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html class='pc chrome win psc_dir-ltr psc_form-xlarge' dir='ltr' lang='en'>
+<!-- Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved. -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><body><table border='1' cellpadding='3' cellspacing='0'>
+<tr>
+<th>Select</th><th>ID</th><th>Name</th><th>Grade Basis</th><th>Units</th><th>Program and Plan</th><th>Level</th></tr>
+<tr>
+<td  ></td>
+<td  >223107337</td>
+<td  >ABDELAZIM,AHMED AMR MANSOUR</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223107569</td>
+<td  >ABDELWAHAB,FARES AHMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - Software Engineering</td>
+<td  >Junior</td>
+<tr>
+<td  ></td>
+<td  >223103395</td>
+<td  >ABO-ZEID,BATOOL AYMEN BAKHEET</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223107021</td>
+<td  >AHMED,AHMED ABDELMAGEID SAAD</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223103525</td>
+<td  >AHMED,EYAD SEIF ELISLAM ABDELFATAH</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223102052</td>
+<td  >AHMED,ZIAD MOHAMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223102530</td>
+<td  >ALSAYED,OSAMA ALAM</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >222100928</td>
+<td  >Abdullah,Abdelrahman Elsayed Fathy</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - Big Data Analytics</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >222100458</td>
+<td  >Ali,Jomana Samy Abdelazez</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - Computer Vision</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223102742</td>
+<td  >DIAB,DEEMA MOHAMED IBRAHEM</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223103995</td>
+<td  >ELBOKL,MUHAMED NADER NAZIEF FRAHAT</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223102298</td>
+<td  >ELESSAWY,ABDELRAHMAN KHALED AMIEN MOHAMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223106577</td>
+<td  >ELMASARANY,AHMED ELSHANAWY TAWFEEK</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >221100803</td>
+<td  >Elsayed,Rawan Hesham Gouda Abdelrazek</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - Software Engineering</td>
+<td  >Junior</td>
+<tr>
+<td  ></td>
+<td  >222100664</td>
+<td  >Eltohamy,Zeyad Rashad Saeed</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - Big Data Analytics</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223107649</td>
+<td  >GODA,AHMED ABD ELMOHSEN MOHAMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223107058</td>
+<td  >HABIL,MINA ADLY KAMAL</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223105417</td>
+<td  >HASSAN,SAIF AMER MOHAMMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223104493</td>
+<td  >HEGAZY,THRAA WALED ABDELMONEM MAHMOUD</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223107301</td>
+<td  >HUSSEIN,AHMAD SHAWKY ABDELKHALEK</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223105531</td>
+<td  >IBRAHIM,OSAMA ADEL MOHAMED ABD ELSALAM</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223102769</td>
+<td  >ISMAIL,ABDELRAHMAN AHMED SAEED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223106258</td>
+<td  >JUMMAH,ISLAM MUOSA ALL</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223103471</td>
+<td  >KAMAL,KENZY KHALED AHMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223105293</td>
+<td  >MAGHRABY,NOUR KHALED MOHAMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223103504</td>
+<td  >MAHMOUD,MOHAMED ESMAIL EBRAHIM</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223105947</td>
+<td  >MAKSOUD,KEVIN JOSEPH MAGDY</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223103521</td>
+<td  >MEDAAN,KARIM ABDULRAHMAN ATWA</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223102542</td>
+<td  >MOHAMED,ABDELRAHMAN AHMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223102409</td>
+<td  >MOHAMED,BELAL SAID</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223105952</td>
+<td  >MOHAMED,NOUR ELDEN WALID ABDELGHANY</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223100836</td>
+<td  >MOSSALAM,HADY MOHAMED AHMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >221101422</td>
+<td  >Mahmoud,Mahmoud Eslam Mahmoud Masoud</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223102148</td>
+<td  >NASSARY,NOUR OSAMA ABBAS</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223107334</td>
+<td  >RAHMAN,SHERIF MOHAMED AHMED ABD EL</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223105257</td>
+<td  >RAHMANY,MOHAMED FADEL SALAH IBRAHIM EL</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223105210</td>
+<td  >SEIDY,MOHAMED KHALED GABER AHMED EL</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Sophomore</td>
+<tr>
+<td  ></td>
+<td  >223105287</td>
+<td  >SOLIMAN,SHAHD AHMED MOHAMED</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >223101141</td>
+<td  >SULAIMAN,HASSAN MOHAMMED HASSAN</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Freshman</td>
+<tr>
+<td  ></td>
+<td  >221100060</td>
+<td  >Soudi Huessin,Adel Mahmoud</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - Software Engineering</td>
+<td  >Junior</td>
+<tr>
+<td  ></td>
+<td  >223104728</td>
+<td  >TAHA,SAGA BEDEER</td>
+<td  >Graded</td>
+<td  >2.00</td>
+<td  >Computer Science Program - No Major declared</td>
+<td  >Sophomore</td>
+</table></body></html>
