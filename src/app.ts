@@ -5,7 +5,7 @@ import { connectDatabase } from './config/database';
 import { environment } from './config/environment';
 import { AuthService } from './services/authService';
 
-// Import routes
+// Import routes.
 import authRoutes from './routes/authRoutes';
 import questionRoutes from './routes/questionRoutes';
 import examRoutes from './routes/examRoutes';
